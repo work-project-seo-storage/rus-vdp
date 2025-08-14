@@ -25,7 +25,7 @@
           <offer id="2">
               <name>Ванна длительной пастеризации ВДП-200</name>
               <vendor>Рус-ВДП</vendor>
-              <url>https://rus-vdp.ru/product/vdp-100</url>
+              <url>https://rus-vdp.ru/product/vdp-200</url>
               <price>305764</price>
               <currencyId>RUR</currencyId>
               <categoryId>1</categoryId>
@@ -39,7 +39,7 @@
           <offer id="3">
               <name>Ванна длительной пастеризации ВДП-500</name>
               <vendor>Рус-ВДП</vendor>
-              <url>https://rus-vdp.ru/product/vdp-100</url>
+              <url>https://rus-vdp.ru/product/vdp-500</url>
               <price>369410</price>
               <currencyId>RUR</currencyId>
               <categoryId>1</categoryId>
@@ -53,7 +53,7 @@
           <offer id="4">
               <name>Ванна длительной пастеризации ВДП-600</name>
               <vendor>Рус-ВДП</vendor>
-              <url>https://rus-vdp.ru/product/vdp-100</url>
+              <url>https://rus-vdp.ru/product/vdp-600</url>
               <price>391970</price>
               <currencyId>RUR</currencyId>
               <categoryId>1</categoryId>
@@ -67,7 +67,7 @@
           <offer id="5">
               <name>Ванна длительной пастеризации ВДП-1000</name>
               <vendor>Рус-ВДП</vendor>
-              <url>https://rus-vdp.ru/product/vdp-100</url>
+              <url>https://rus-vdp.ru/product/vdp-1000</url>
               <price>478457</price>
               <currencyId>RUR</currencyId>
               <categoryId>1</categoryId>
@@ -81,7 +81,7 @@
           <offer id="6">
               <name>Ванна длительной пастеризации ВДП-2000</name>
               <vendor>Рус-ВДП</vendor>
-              <url>https://rus-vdp.ru/product/vdp-100</url>
+              <url>https://rus-vdp.ru/product/vdp-2000</url>
               <price>583972</price>
               <currencyId>RUR</currencyId>
               <categoryId>1</categoryId>
